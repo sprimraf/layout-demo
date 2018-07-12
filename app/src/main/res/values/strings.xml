@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Layout Demo</string>
+    <string name="linear_layout">线性布局</string>
+    <string name="linear_layout_right_center">线性布局（右侧居中）</string>
+    <string name="table_layout">表格布局</string>
+    <string name="frame_layout">帧布局</string>
+    <string name="relative_layout">相对布局</string>
+    <string name="grid_layout">网格布局</string>
+    <string name="bn1">星期一</string>
+    <string name="bn2">星期二</string>
+    <string name="bn3">星期三</string>
+    <string name="bn4">星期四</string>
+    <string name="bn5">星期五</string>
+    <string name="bn6">星期六</string>
+    <string name="bn7">星期日</string>
+    <string name="ok1">独自一个的按钮</string>
+    <string name="ok2">普通按钮</string>
+    <string name="ok3">收缩按钮</string>
+    <string name="ok4">拉伸按钮</string>
+    <string name="t0">0</string>
+    <string name="clear">清除</string>
+</resources>
